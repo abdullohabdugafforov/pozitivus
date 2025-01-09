@@ -167,6 +167,7 @@ header nav ul li a {
     .standart-btn {
         padding: 12px;
         font-size: 12px;
+        background-color: red;
     }
 
     .intro-text h1{
@@ -175,5 +176,13 @@ header nav ul li a {
 
     .intro-text p {
         font-size: 12px;
+    }
+
+    .intro-container {
+        padding: 0;
+    }
+
+    .intro-img img {
+        max-width: 450px;
     }
 }
